@@ -7,6 +7,9 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using Microsoft.Extensions.FileProviders;
+using System.IO;
+using Microsoft.AspNetCore.Http;
 
 namespace YkbSunum
 {
@@ -47,7 +50,11 @@ namespace YkbSunum
                 app.UseExceptionHandler("/Home/Error");
             }
 
-            app.UseStaticFiles();
+
+            // Your existing code goes here
+
+            app.UseStaticFiles(new StaticFileOptions() { FileProvider = new PhysicalFileProvider(Path.Combine(Directory.GetCurrentDirectory(), @"wwwroot")) });
+
 
             app.UseMvc(routes =>
             {
