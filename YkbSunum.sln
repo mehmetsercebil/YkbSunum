@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26730.3
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YkbSunum", "YkbSunum\YkbSunum.csproj", "{2B3B2187-E26C-499B-923F-80624E265804}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YkbSunum", "YkbSunum\YkbSunum.csproj", "{2B3B2187-E26C-499B-923F-80624E265804}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "YkbTest", "YkbTest\YkbTest.csproj", "{C54649CB-E539-4D75-9E55-2BA5546AFFA7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "YkbTest", "YkbTest\YkbTest.csproj", "{C54649CB-E539-4D75-9E55-2BA5546AFFA7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
