@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\bin\Debug\netcoreapp1.1\YkbSunum.deps.json
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\bin\Debug\netcoreapp1.1\YkbSunum.runtimeconfig.json
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\bin\Debug\netcoreapp1.1\YkbSunum.runtimeconfig.dev.json
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\bin\Debug\netcoreapp1.1\YkbSunum.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\bin\Debug\netcoreapp1.1\YkbSunum.pdb
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\obj\Debug\netcoreapp1.1\YkbSunum.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\obj\Debug\netcoreapp1.1\YkbSunum.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\obj\Debug\netcoreapp1.1\YkbSunum.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\obj\Debug\netcoreapp1.1\YkbSunum.AssemblyInfo.cs
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\obj\Debug\netcoreapp1.1\YkbSunum.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbSunum\obj\Debug\netcoreapp1.1\YkbSunum.pdb

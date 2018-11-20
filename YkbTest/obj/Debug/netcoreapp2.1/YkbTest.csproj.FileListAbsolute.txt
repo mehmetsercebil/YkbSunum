@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\YkbTest.deps.json
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\YkbTest.runtimeconfig.json
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\YkbTest.runtimeconfig.dev.json
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\YkbTest.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\bin\Debug\netcoreapp2.1\YkbTest.pdb
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\obj\Debug\netcoreapp2.1\YkbTest.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\obj\Debug\netcoreapp2.1\YkbTest.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\obj\Debug\netcoreapp2.1\YkbTest.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\obj\Debug\netcoreapp2.1\YkbTest.AssemblyInfo.cs
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\obj\Debug\netcoreapp2.1\YkbTest.dll
+C:\Users\User\Desktop\YkbSunum\YkbSunum\YkbTest\obj\Debug\netcoreapp2.1\YkbTest.pdb
